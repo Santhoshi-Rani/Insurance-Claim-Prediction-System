@@ -5,6 +5,26 @@
 This project focuses on building a machine learning model to predict the risk of an insurance claim occurring within the next 6 months. The objective is to help insurance companies assess customer risk more accurately and support better premium pricing decisions.
 ___________________________________________________________________________________________________
 
+## 📁 Project Structure
+
+<pre>
+insurance-claim-risk-prediction/
+│
+├── notebooks/
+│   └── insurance_claim_model.ipynb
+│
+├── presentation/
+│   └── car_insurance_claim_prediction_presentation.pptx
+│
+├── data/
+│   └── (sample raw data)
+│
+├── README.md
+│
+└── requirements.txt
+</pre>
+___________________________________________________________________________________________________
+
 
 ## ⚠️ Key Challenges
 While working on this project, I faced several real-world data challenges:
